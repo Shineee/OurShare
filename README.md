@@ -15,3 +15,16 @@
 * 2016-5-21 第3期
   * [DragRecyclerView](Development/Android/CustomView/RecyclerView.md)
   * [英语学习工具ngrams](Language/English/Tool.md)
+
+
+* 2016-5-28 第4期
+
+  * [Git专题周](Development/VersionControl/Git.md)
+
+    > Git中文官方教程
+    >
+    > Git下载地址
+    >
+    > Git源码
+    >
+    > Git的官方github地址
