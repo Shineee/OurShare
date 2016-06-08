@@ -28,3 +28,20 @@
     > Git源码
     >
     > Git的官方github地址
+
+
+* 2016-6-4 第5期
+
+  * [Java书籍周](Development/Language/Java/Book/Foundation.md)
+
+    > Java语言规范(中文版|第三版)
+    >
+    > CoreJava(中文版|第九版)
+    >
+    > Think in Java(中文版|第四版)
+    >
+    > Effective Java(中文版|第二版)
+
+
+
+
