@@ -43,5 +43,19 @@
     > Effective Java(中文版|第二版)
 
 
+* 2016-6-11 第6期
 
+  * [Gradle专题周(Android版)](Development/ContinuousIntegration/Gradle/Android/Gradle.md)
+
+    > Gradle官网
+    >
+    > Gradle 快速入门（中文版|已完结）
+    >
+    > Android Gradle 构建官方网站（英文版|持续更新）
+    >
+    > Android Gradle 插件源码
+    >
+    > Android 项目依赖的所有Gradle类库集合
+    >
+    > Android 项目在Gradle中用Git动态管理代码
 
