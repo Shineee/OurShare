@@ -51,7 +51,7 @@
     >
     > Gradle 快速入门（中文版|已完结）
     >
-    > Android Gradle 构建官方网站（英文版|持续更新）
+    > Android Gradle 构建官方网站（英文版|持续更新|自备梯子）
     >
     > Android Gradle 插件源码
     >
@@ -59,3 +59,15 @@
     >
     > Android 项目在Gradle中用Git动态管理代码
 
+
+* 2016-6-18 第7期
+
+  * [Jenkins专题周](Development/ContinuousIntegration/Jenkins/Jenkins.md)
+
+    >Jenkins 官网
+    >
+    >Jenkins 快速入门（中文版|已完结）
+    >
+    >Jenkins 源码
+
+    ​
