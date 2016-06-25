@@ -62,7 +62,7 @@
 
 * 2016-6-18 第7期
 
-  * [Jenkins专题周](Development/ContinuousIntegration/Jenkins/Jenkins.md)
+  * [Jenkins 专题周](Development/ContinuousIntegration/Jenkins/Jenkins.md)
 
     >Jenkins 官网
     >
@@ -70,4 +70,14 @@
     >
     >Jenkins 源码
 
-    ​
+
+
+* 2016-6-25 第8期
+
+  * [Nexus 专题周](Development/ContinuousIntegration/Nexus/Nexus.md)
+
+    > Nexus 官网
+    >
+    > Nexus 下载地址
+    >
+    > Nexus 快速入门（中文版|已完结）
