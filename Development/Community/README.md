@@ -19,3 +19,9 @@
 ### [掘金](http://gold.xitu.io/welcome)
 
 ### [CSDN](http://www.csdn.net/)
+
+### [Leanpub](https://leanpub.com/)
+
+### [GitBook](https://www.gitbook.com/)
+
+### [图灵社区](http://www.ituring.com.cn/)
