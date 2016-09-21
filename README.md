@@ -6,9 +6,21 @@ OurShare 初衷是把收集到的各种好资源分享给需要的人，不定�
 
 ### [每日变动](https://github.com/Shineee/OurShare/commits/master)
 
+# Catalog
+
+### [Development](Development)
+
+### [Eat](Eat)
+
+### [Language](Language)
+
+### [Tool](Tool)
+
+### [Travel](Travel)
+
 # Version
 
-1.0.3.20160921_release
+1.1.4.20160921_release
 
 # License
 
