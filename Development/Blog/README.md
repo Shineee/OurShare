@@ -26,3 +26,12 @@
 
 ### [左潇龍](http://www.cnblogs.com/zuoxiaolong/)
 
+### [Richard Huang](http://huangzhimin.com/)
+
+### [RichardCao](http://richardcao.me/)
+
+### [Cedric Fung](https://vec.io/)
+
+### [Jesse Wilson](https://publicobject.com/)
+
+### [酷 壳](http://coolshell.cn/)

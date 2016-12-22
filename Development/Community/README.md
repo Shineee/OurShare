@@ -2,7 +2,13 @@
 
 ### [GitHub](https://github.com)
 
-### [Google Developers](https://developers.google.com)
+### [Google Developers(英文)](https://developers.google.com)
+
+### [Google Developers(中文)](https://developers.google.cn)
+
+### [优达学城](https://cn.udacity.com/)
+
+### [谷创字幕组](http://d.gdsub.com/forum.php)
 
 ### [Stack Overflow](http://stackoverflow.com)
 
