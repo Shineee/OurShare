@@ -37,3 +37,15 @@
 ### [Reddit](https://www.reddit.com/)
 
 ### [DiyCode](http://www.diycode.cc/)
+
+### [异步社区](http://www.epubit.com.cn/)
+
+### [实验楼](https://www.shiyanlou.com/)
+
+### [The Linux Kernel Mailing List Archive](https://lkml.org/)
+
+### [Linux公社](http://www.linuxidc.net/portal.php)
+
+### [程序员客栈](https://www.proginn.com/)
+
+### [Android开源项目集合](http://p.codekk.com/)
