@@ -37,3 +37,9 @@
 ### [Reddit](https://www.reddit.com/)
 
 ### [DiyCode](http://www.diycode.cc/)
+
+### [极客导航-程序员自己的导航](http://www.jikedaohang.com/)
+
+### [Android Dev Tools](http://www.androiddevtools.cn/index.html)
+
+### [Java 知识分享网](http://www.java1234.com/)
