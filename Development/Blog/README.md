@@ -6,7 +6,7 @@
 
 ### [木遥的窗子](http://blog.farmostwood.net/)
 
-### [Do Great Things](http://yedingding.com/)
+### [叶玎玎](http://yedingding.com/)
 
 ### [Daniel Lv](http://lvguoning.com/)
 
@@ -30,8 +30,6 @@
 
 ### [RichardCao](http://richardcao.me/)
 
-### [Cedric Fung](https://vec.io/)
-
-### [Jesse Wilson](https://publicobject.com/)
-
 ### [酷 壳](http://coolshell.cn/)
+
+### [Android梦想特工队](http://www.wxtlife.com/)
