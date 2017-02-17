@@ -4,3 +4,5 @@
 
 ### [嘉瑞基外汇之星](http://www.forexstar.com.cn/)
 
+### [程序员该用哪种姿势来理财](http://www.cocoachina.com/programmer/20170118/18586.html)
+
