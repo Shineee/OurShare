@@ -54,3 +54,7 @@
 ### [程序员客栈](https://www.proginn.com/)
 
 ### [Android开源项目集合](http://p.codekk.com/)
+
+### [南阳理工学院](http://acm.nyist.net/JudgeOnline/problemset.php)
+
+### [Lucida](http://zh.lucida.me/)
