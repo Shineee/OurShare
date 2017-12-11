@@ -33,3 +33,5 @@
 ### [酷 壳](http://coolshell.cn/)
 
 ### [Android梦想特工队](http://www.wxtlife.com/)
+
+### [唐巧的博客](http://blog.devtang.com/)
